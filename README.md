@@ -55,7 +55,7 @@
 ## 💼 Experience  
 
 ### 🚀 Flutter Developer — Nextera Software Company  
-**Nov 2023 – Present**  
+**Feb 2024 – Present**  
 - Developed and deployed **production-level Flutter applications**.  
 - Integrated **Firebase Auth, Firestore, Cloud Functions, REST APIs**.  
 - Built **role-based systems, payments, and real-time features**.  
