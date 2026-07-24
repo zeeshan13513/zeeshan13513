@@ -16,7 +16,7 @@
 ### 🌟 About Me  
 
 - 🚀 **Flutter Developer** with **2+ years** of professional experience.  
-- 🏢 Currently working at **Nextera Software Company** *(Nov 2023 – Present)*.  
+- 🏢 Currently working at **Nexum Technologies** *(Nov 2023 – Present)*.  
 - 📱 Specialized in **Flutter + Firebase** cross-platform mobile applications.  
 - 🔧 Experience with **REST APIs, Cloud Functions, Firestore, and Auth**.  
 - 🧠 Strong focus on **clean architecture, scalable apps, and real-time systems**.  
